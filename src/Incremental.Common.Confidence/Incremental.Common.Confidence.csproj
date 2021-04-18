@@ -2,6 +2,13 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <Title>Incremental.Common.Confidence</Title>
+        <Authors>Lucas Maximiliano Marino</Authors>
+        <PackageProjectUrl>https://github.com/incrementalfun/package.confidence</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/incrementalfun/package.confidence</RepositoryUrl>
+        <Copyright>Copyright © Lucas Maximiliano Marino 2021</Copyright>
+        <Nullable>enable</Nullable>
     </PropertyGroup>
 
 </Project>
