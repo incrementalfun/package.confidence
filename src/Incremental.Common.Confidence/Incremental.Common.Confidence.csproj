@@ -8,6 +8,8 @@
         <PackageProjectUrl>https://github.com/incrementalfun/package.confidence</PackageProjectUrl>
         <RepositoryUrl>https://github.com/incrementalfun/package.confidence</RepositoryUrl>
         <Copyright>Copyright © Lucas Maximiliano Marino 2021</Copyright>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>        
         <Nullable>enable</Nullable>
     </PropertyGroup>
 

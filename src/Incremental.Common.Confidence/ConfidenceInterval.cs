@@ -78,6 +78,9 @@ namespace Incremental.Common.Confidence
             return quantile > 0.5 ? Math.Sqrt(temp3 * temp2) : -Math.Sqrt(temp3 * temp2);
         }
 
+        /// <summary>
+        ///     Confidence Interval
+        /// </summary>
         public record Interval
         {
             /// <summary>
