@@ -43,7 +43,6 @@ jobs:
       #   with:
       #     name: nupkg
       #     path: ./src/${{ env.PROJECT_NAME }}/bin/Release/*.nupkg
-
   publish:
     needs: build
     if: github.event_name == 'release'
